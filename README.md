@@ -9,6 +9,7 @@
 <img src="./images/capture-20200611-135231.png">
 <h3>-- CHARACTERISTICS --</h3>
 <p>Title: <b>KNIGHT</b></p>
+<p>Genre: <b>Platformer</b>, <b>Indie</b></p>
 <p>Developer: <b>DevLever</b></p>
 <p>Status: <b>Release</b></p>
 <p>Age restriction: <b>3+</b></p>
