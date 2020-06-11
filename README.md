@@ -11,7 +11,8 @@
 <p>Status: <b>Release</b></p>
 <p>Age restriction: <b>3+</b></p>
 <p>Price: <b>Free to play</b></p>
+<p>Estimated gameplay time: <b>8 minutes</b></p>
 <h3>-- CREDITS --</h3>
-<p>Artist - <b>DevLever</b></p>
-<p>Programmer - <b>DevLever</b></p>
-<p>Music by <b>Egor Petelin</b></p>
+<p>Artist - <a href="https://connect.unity.com/u/devlever"><b>DevLever</b></a></p>
+<p>Programmer - <a href="https://connect.unity.com/u/devlever"><b>DevLever</b></a></p>
+<p>Music by <a href="https://www.youtube.com/channel/UCGJCgCbdJk_7NBJYED3idwg/videos"><b>Egor Petelin</b></a></p>
