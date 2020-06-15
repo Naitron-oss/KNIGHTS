@@ -2,6 +2,8 @@
 <img src="./images/icon.png">
 <h3>-- PLAY A GAME --</h3>
 <p>➤ DOWNLOAD GAME FOR <b>WINDOWS</b> - https://devlever.itch.io/knight</p>
+<p>➤ DOWNLOAD GAME FOR <b>MAC</b> - https://devlever.itch.io/knight</p>
+<p>➤ DOWNLOAD GAME FOR <b>LINUX</b> - https://devlever.itch.io/knight</p>
 <p>➤ PLAY IN BROWSER - https://danielpetelin.github.io/KNIGHT/</p>
 <h3>-- ABOUT THE GAME --</h3>
 <p><b>Indie platformer</b> game consisting of one level.</p>
