@@ -4,7 +4,7 @@
 <p>➤ DOWNLOAD GAME FOR <b>WINDOWS</b> - https://devlever.itch.io/knight</p>
 <p>➤ DOWNLOAD GAME FOR <b>MAC</b> - https://devlever.itch.io/knight</p>
 <p>➤ DOWNLOAD GAME FOR <b>LINUX</b> - https://devlever.itch.io/knight</p>
-<p>➤ PLAY IN BROWSER - https://danielpetelin.github.io/KNIGHT/</p>
+<p>➤ PLAY IN BROWSER - https://games-by-devlever.github.io/KNIGHT/</p>
 <h3>-- ABOUT THE GAME --</h3>
 <p><b>Indie platformer</b> game consisting of one level.</p>
 <p>"Initially, I did not expect this project to be public" - <b>the creator</b>.</p>
